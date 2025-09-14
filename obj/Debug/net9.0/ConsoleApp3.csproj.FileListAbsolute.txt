@@ -1,0 +1,28 @@
+C:\Users\Duxa\Desktop\Новая папка (3)\Новая папка\Заиченко Стренин\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.exe
+C:\Users\Duxa\Desktop\Новая папка (3)\Новая папка\Заиченко Стренин\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.deps.json
+C:\Users\Duxa\Desktop\Новая папка (3)\Новая папка\Заиченко Стренин\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.runtimeconfig.json
+C:\Users\Duxa\Desktop\Новая папка (3)\Новая папка\Заиченко Стренин\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.dll
+C:\Users\Duxa\Desktop\Новая папка (3)\Новая папка\Заиченко Стренин\ConsoleApp3\bin\Debug\net9.0\ConsoleApp3.pdb
+C:\Users\Duxa\Desktop\Новая папка (3)\Новая папка\Заиченко Стренин\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duxa\Desktop\Новая папка (3)\Новая папка\Заиченко Стренин\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\Duxa\Desktop\Новая папка (3)\Новая папка\Заиченко Стренин\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.AssemblyInfo.cs
+C:\Users\Duxa\Desktop\Новая папка (3)\Новая папка\Заиченко Стренин\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Duxa\Desktop\Новая папка (3)\Новая папка\Заиченко Стренин\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.dll
+C:\Users\Duxa\Desktop\Новая папка (3)\Новая папка\Заиченко Стренин\ConsoleApp3\obj\Debug\net9.0\refint\ConsoleApp3.dll
+C:\Users\Duxa\Desktop\Новая папка (3)\Новая папка\Заиченко Стренин\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.pdb
+C:\Users\Duxa\Desktop\Новая папка (3)\Новая папка\Заиченко Стренин\ConsoleApp3\obj\Debug\net9.0\ConsoleApp3.genruntimeconfig.cache
+C:\Users\Duxa\Desktop\Новая папка (3)\Новая папка\Заиченко Стренин\ConsoleApp3\obj\Debug\net9.0\ref\ConsoleApp3.dll
+C:\Users\Duxa\Desktop\дз\Laba2\obj\Debug\net9.0\ConsoleApp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duxa\Desktop\дз\Laba2\obj\Debug\net9.0\ConsoleApp3.AssemblyInfoInputs.cache
+C:\Users\Duxa\Desktop\дз\Laba2\obj\Debug\net9.0\ConsoleApp3.AssemblyInfo.cs
+C:\Users\Duxa\Desktop\дз\Laba2\obj\Debug\net9.0\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\Duxa\Desktop\дз\Laba2\obj\Debug\net9.0\ConsoleApp3.dll
+C:\Users\Duxa\Desktop\дз\Laba2\obj\Debug\net9.0\refint\ConsoleApp3.dll
+C:\Users\Duxa\Desktop\дз\Laba2\obj\Debug\net9.0\ConsoleApp3.pdb
+C:\Users\Duxa\Desktop\дз\Laba2\bin\Debug\net9.0\ConsoleApp3.exe
+C:\Users\Duxa\Desktop\дз\Laba2\bin\Debug\net9.0\ConsoleApp3.deps.json
+C:\Users\Duxa\Desktop\дз\Laba2\bin\Debug\net9.0\ConsoleApp3.runtimeconfig.json
+C:\Users\Duxa\Desktop\дз\Laba2\bin\Debug\net9.0\ConsoleApp3.dll
+C:\Users\Duxa\Desktop\дз\Laba2\bin\Debug\net9.0\ConsoleApp3.pdb
+C:\Users\Duxa\Desktop\дз\Laba2\obj\Debug\net9.0\ConsoleApp3.genruntimeconfig.cache
+C:\Users\Duxa\Desktop\дз\Laba2\obj\Debug\net9.0\ref\ConsoleApp3.dll
